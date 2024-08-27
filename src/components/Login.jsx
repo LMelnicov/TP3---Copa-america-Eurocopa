@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Imagen from "../assets/wine2.png";
-import ImageProfile from "../assets/sesion.png";
+import Imagen from "../assets/titulo.png";
+import ImageProfile from "../assets/user1.png";
 
 import appFirebase from "../credenciales";
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";

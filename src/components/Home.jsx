@@ -9,7 +9,7 @@ const Home = ({ correoUsuario }) => {
         <div>
 
         </div>
-        
+
 
     );
 }

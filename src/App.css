@@ -6,10 +6,10 @@
 }
 
 .tamano-imagen{
-    width: 90%;
-    height: 450px;
-    margin-top: 70px;
-    margin-left: 90px;
+    width: 75%;
+    height: 490px;
+    margin-top: 40px;
+    margin-left: 140px;
 }
 
 .estilo-profile{
@@ -63,10 +63,10 @@
 
 
 .botoninicio{
-    background-color: #219416;
+    background-color: #2045bd;
 }
 .botonregis{
-    background-color: #51328a;
+    background-color: #ec3030;
 }
 
 .menu{
